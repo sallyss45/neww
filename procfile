@@ -1,1 +1,1 @@
-web:gunicorn flsk:app
+web:gunicorn my_flask2:app
